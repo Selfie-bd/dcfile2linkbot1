@@ -181,7 +181,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 ### Credits : 
 
 - [Selfiebd(me)](https://github.com/selfie-bd)
-- [selfiebd](https://github.com/Selfie-bd) 
+- [EverythingSuckz](https://github.com/EverythingSuckz) 
 - [Jigar Varma](https://github.com/jigarvarma2005)
 - Everyone In This Journey !
 
